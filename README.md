@@ -1,5 +1,4 @@
-# EARTHQUAKE-PREDICTION
-title: Earthquake Prediction & Live Map
+# EARTHQUAKE-PREDICTION & LIVE MAP
 emoji: 🌎
 colorFrom: blue
 colorTo: red
