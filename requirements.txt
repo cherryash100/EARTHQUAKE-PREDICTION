@@ -1,0 +1,9 @@
+gradio
+scikit-learn
+pandas
+numpy
+folium
+branca
+requests
+xgboost
+skops
